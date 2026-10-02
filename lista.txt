@@ -3,5 +3,6 @@ preciso comprar:
 maça
 banana
 laranja
+melancia
 
 Essa é minha lista de compras.
