@@ -1,0 +1,7 @@
+preciso comprar:
+
+maça
+banana
+laranja
+
+Essa é minha lista de compras.
