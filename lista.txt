@@ -1,7 +1,7 @@
 preciso comprar:
 
-MAÇA
-LARANJA
-MELANCIA
-
+maçã
+laranja
+melancia
+uva 
 Essa é minha lista de compras.
